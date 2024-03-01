@@ -226,6 +226,20 @@ margin-top: 50px;
     font-weight: 700;
     line-height: 36px;
 }
+.greenbar{
+    margin-top: 100px;
+    background-color: #69724F;
+    ;
+    color: #F5F4FA;
+    align-items: center;
+    height: 90px;
+}
 
-
-
+.whitetext{
+    margin-bottom: 30px;
+    color: white;
+    font-size: 44px;
+    display: block;
+    text-align: center;
+    padding-top: 15px;
+}
